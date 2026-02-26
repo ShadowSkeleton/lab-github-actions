@@ -4,6 +4,8 @@
 
 [![codecov](https://codecov.io/github/shadowskeleton/lab-github-actions/graph/badge.svg?token=30PJ3SGE1H)](https://codecov.io/github/shadowskeleton/lab-github-actions)
 
+This is just a line of test!
+
 This is for NYU DevOps lab on using GitHub Actions with Redis for Continuous Integration
 
 ## Introduction
